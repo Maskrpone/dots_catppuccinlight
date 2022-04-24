@@ -10,6 +10,6 @@ _My workflow stayed the same as the first desktop, if you are curious of what I 
 
 The compositor used is the ibhagwan's picom fork
 
-![rice1.png]
+![rice1.png](rice1.png)
 
 
